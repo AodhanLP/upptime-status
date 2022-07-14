@@ -23,7 +23,8 @@ sites:
 
 status-website:
   baseUrl: /upptime-status
-  logoUrl: https://learningpool.com/favicon.svg
+  logoUrl: https://learningpool.com/favicon.png
+  favicon: https://learningpool.com/favicon.png
   name: Upptime Status
   introTitle: "**Upptime Status** was set up to track the status on dependant services, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/AodhanLP/upptime-status).
@@ -41,4 +42,3 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *" 
-  

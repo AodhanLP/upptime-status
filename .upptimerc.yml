@@ -33,7 +33,7 @@ status-website:
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/AodhanLP/upptime-status).
   navbar:
     - title: Status
-      href: /
+      href: /upptime-status/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

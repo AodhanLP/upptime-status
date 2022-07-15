@@ -3,8 +3,23 @@ repo: upptime-status
 
 sites:
 - name: Jenkins
-  method: POST
-  url: https://jenkins.learningpool.com/login
+  url: https://jenkins.learningpool.com/
+- name: dev
+  url: https://qa.curatrdev.com/
+- name: UAT
+  url: https://aodhanwade-uat.headstreamlxp.info/
+- name: prod
+  url: https://hal9001.curatr3.com/
+- name: Stream LXP
+  url: https://learningpool.streamlxp.com/
+- name: Stream LXP US
+  url: https://learningpool-us.streamlxp.com/
+- name: Learning Locker
+  url: https://saas.learninglocker.net/
+- name: Learning Locker US
+  url: https://saas-us.learninglocker.net/
+- name: Waves
+  url: https://waves.learningpool.com/
 
 status-website:
   baseUrl: /upptime-status

@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/jenkins.learningpool.com",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 314,
     "timeDay": 267,
     "timeWeek": 314,
     "timeMonth": 314,
     "timeYear": 314,
-    "dailyMinutesDown": {
-      "2022-07-15": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dev",

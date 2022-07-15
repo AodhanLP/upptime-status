@@ -29,7 +29,7 @@ status-website:
   faviconSVG: https://learningpool.com/favicon.svg
   theme: dark
   name: Upptime Status
-  introTitle: "**Upptime Status** was set up to track the status on dependant services, powered entirely by GitHub."
+  introTitle: "**Upptime Status** tracks Learning Pool sites including our Jenkins server, Stream, Learning Locker, and Waves sites."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/AodhanLP/upptime-status).
   navbar:
     - title: Status

@@ -3,7 +3,7 @@ repo: upptime-status
 
 sites:
 - name: Jenkins
-  url: https://jenkins.learningpool.com/
+  url: https://jenkins.learningpool.com/login
 - name: dev
   url: https://qa.curatrdev.com/
 - name: UAT

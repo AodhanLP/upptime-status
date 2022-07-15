@@ -2,22 +2,12 @@ owner: AodhanLP
 repo: upptime-status
 
 sites:
-  - name: Jenkins
-    url: https://status.jenkins.io/
-  - name: Circle CI
-    url: https://status.circleci.com/
-  - name: AWS
-    url: https://health.aws.amazon.com/health/status
-  - name: GitHub
-    url: https://www.githubstatus.com/
-  - name: Atlassian
-    url: https://status.atlassian.com/
-  - name: Slack
-    url: https://status.slack.com/
-  - name: Google Stuff
-    url: https://www.google.com/appsstatus/dashboard/
-  - name: Sage
-    url: https://status.sage.com/
+- name: Jenkins
+  method: POST
+  url: https://jenkins.learningpool.com/login
+  headers:
+    - "Content-Type: application/json"
+  body: '{ "password": "5fdcT1S!U!HV", "username": "aodhan_wade" }'
 
 status-website:
   baseUrl: /upptime-status

@@ -7,7 +7,7 @@ sites:
   url: https://jenkins.learningpool.com/login
   headers:
     - "Content-Type: application/json"
-  body: '{ "password": "5fdcT1S!U!HV", "username": "aodhan_wade" }'
+  body: '{ "password": "5fdcT1S!U!HV", "username": "aodhanwade" }'
 
 status-website:
   baseUrl: /upptime-status
